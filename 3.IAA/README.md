@@ -1,6 +1,6 @@
-# Diplomatura en Ciencias de Datos 2022 - FAMAF
+# Diplomatura en Ciencias de Datos 2022
 
-## **Entregables - Grupo 21:**
+## **Materia: Introducción al Aprendizaje Automático**
 
 ### **Integrantes:**
 
